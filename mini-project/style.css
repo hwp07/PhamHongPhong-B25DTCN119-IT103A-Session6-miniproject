@@ -4,6 +4,10 @@ h2 {
     color:#92400e;
 }
 
+h3 {
+    color:#92400e;
+}
+
 .menu {
     background-color: #fed7aa;
     text-align: center;
@@ -12,6 +16,13 @@ h2 {
 a {
     color:#92400e;
     text-decoration: none;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.menu :hover{
+    background-color:#78350f;
+    color:yellow;
 }
 
 .baner {
@@ -29,9 +40,19 @@ body {
 
 div {
     display: block;
-    unicode-bidi: isolate;
 }
 
 body {
     background-color: #fff7ed;
+}
+
+ol :hover{
+    color:yellow;
+    background: #78350f
+}
+
+.footer {
+    background:#78350f;
+    color:#ffffff;
+    text-align: center;
 }
