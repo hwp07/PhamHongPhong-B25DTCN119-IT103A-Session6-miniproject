@@ -1,0 +1,37 @@
+h2 {
+    text-align: center;
+    background-color: #fde68a;
+    color:#92400e;
+}
+
+.menu {
+    background-color: #fed7aa;
+    text-align: center;
+}
+
+a {
+    color:#92400e;
+    text-decoration: none;
+}
+
+.baner {
+    text-align: center;
+    background-color: #fff7ed;
+}
+
+body {
+    font-family: cursive;
+}
+
+.section {
+    background-color: #ffffff;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+body {
+    background-color: #fff7ed;
+}
